@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxAnlikCrudislemleri", "AjaxAnlikCrudislemleri\AjaxAnlikCrudislemleri.csproj", "{46566C49-3E75-4FF7-8157-922C709D0AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46566C49-3E75-4FF7-8157-922C709D0AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46566C49-3E75-4FF7-8157-922C709D0AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46566C49-3E75-4FF7-8157-922C709D0AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46566C49-3E75-4FF7-8157-922C709D0AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE39B9F-CF6F-4E56-B377-D4BCEFBCEBE2}
+	EndGlobalSection
+EndGlobal
